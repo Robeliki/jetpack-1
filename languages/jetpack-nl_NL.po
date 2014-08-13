@@ -16,7 +16,7 @@ msgstr ""
 
 #: modules/custom-post-types/portfolios.php:168
 msgid "Enable Portfolio Projects for this site."
-msgstr "Activeer Portfolio Projecten voor deze sie"
+msgstr "Activeer Portfolio Projecten voor deze site"
 
 #: modules/module-info.php:930
 msgid ""
